@@ -1,4 +1,4 @@
-![Docker Image Version](https://img.shields.io/docker/v/matteopic/therion)
+[![Docker Image Version](https://img.shields.io/docker/v/matteopic/therion)](https://hub.docker.com/r/matteopic/therion)
 [![GitHub marketplace](https://img.shields.io/badge/marketplace-compile--with--therion-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/compile-with-therion)
 
 Therion Container
