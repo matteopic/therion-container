@@ -3,6 +3,13 @@
 All notable changes to docker container and github action will be documented in this file.  
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [6.3.0] - 2025-04-09
+
+### Changed
+- Upgrade Therion to 6.3.0
+- Based on Ubuntu 24.04 LTS
+- Compiled with cmake
+
 ## [6.2.1-20240410] - 2024-04-10
 
 ### Fixed
