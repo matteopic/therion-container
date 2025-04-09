@@ -8,7 +8,7 @@ inputs:
     required: true
 runs:
   using: 'docker'
-  image: 'docker://matteopic/therion:6.3.2'
+  image: 'docker://matteopic/therion:6.3.3'
   args:
     - ${{ inputs.thconfig }}
 
